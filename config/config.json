@@ -1,0 +1,33 @@
+{
+	"metadata": {
+		"ar": {
+			"title": "ArabEasy - Easy Arabic",
+			"description": "Interactive textbook for learning Arabic language using a unique methodology",
+			"siteUrl": "https://arabeasy.ru"
+		},
+		"ru": {
+			"title": "ArabEasy - арабский легко",
+			"description": "интерактивный учебник для изучения арабского языка по уникальной методике",
+			"siteUrl": "https://arabeasy.ru"
+		}
+	},
+	"logo": {
+		"textArray": ["Arab", "Easy"]
+	},
+	"languages": [
+		{
+			"code": "ar",
+			"emoji": "🇸🇦",
+			"name": "Arabic",
+			"voiceTitle": "صوت"
+		},
+		{
+			"code": "ru",
+			"emoji": "🇷🇺",
+			"name": "Russian",
+			"voiceTitle": "Голос"
+		}
+	],
+	"voicePriority": ["ar-SA", "ar-AE", "ar"],
+	"yandexMetrikaId": "101929058"
+}
